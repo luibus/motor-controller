@@ -1,4 +1,4 @@
-Proyect for the Dynamical Systems and Control from the Physics degree at UCM.
+Proyect for the Dynamical Systems and Control subjet from the Physics degree at UCM.
 
 Two versions are uploaded.
 - A mlx matlab live script ready to be runned
